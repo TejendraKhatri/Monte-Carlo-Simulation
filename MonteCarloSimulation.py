@@ -2,7 +2,9 @@
 Monte Carlo simulation to estimate the frequency 
 of the different types of rolls of 5 5-sided dice
 '''
-__author__ = "Michael Haugrud"
+__author__ = "Tejendra Khatri"
+__date__ = "5/21/2020"
+
 import random
 
 class Roll:
